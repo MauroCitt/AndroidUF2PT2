@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "520488062198",
+    "firebase_url": "https://cochesbd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cochesbd",
+    "storage_bucket": "cochesbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520488062198:android:b708a4f44e00a28c29b0d7",
+        "android_client_info": {
+          "package_name": "com.example.uf2_pt2_m08_maurocitt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUZV22f81FxsPd0ttZazBvDEZRwA1RrLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
